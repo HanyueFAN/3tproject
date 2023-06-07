@@ -1,0 +1,14 @@
+.label {
+    -fx-text-fill: #333333;
+    -fx-background-color: #f2f2f2;
+    -fx-padding: 10px;
+    -fx-border-radius: 5px;
+}
+
+#generationLabel {
+    -fx-font-size: 20px;
+}
+
+#distanceLabel {
+    -fx-font-size: 16px;
+}
