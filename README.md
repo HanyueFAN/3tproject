@@ -1,0 +1,1 @@
+The aim of this project is, therefore, to help tourist agencies proposing solutions to tourists’ requests in general, and more especially to those that are similar to the previous requests taking into consideration place and time constraints.
